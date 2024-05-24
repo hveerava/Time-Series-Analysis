@@ -18,5 +18,5 @@ This project is a simple C++ library for analyzing time series data, providing f
 
 ## Requirements:
 - C++ compiler with support for C++11 or later.
-- Common library headers like <vector>, <string>, <cmath>, etc.
+- Common library headers like < vector >, < string >, < cmath >, etc.
 - Development environment like Visual Studio, Xcode, or command-line tools. (not necessary)
